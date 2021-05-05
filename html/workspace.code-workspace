@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../Documents/GitHub/UX_UI_HW_20"
+		},
+		{
+			"path": "../css"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "UX_UI_HW_20",
+		"liveServer.settings.port": 5501
+	}
+}
